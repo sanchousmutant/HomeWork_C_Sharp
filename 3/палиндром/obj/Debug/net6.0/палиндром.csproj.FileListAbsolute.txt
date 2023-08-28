@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\bin\Debug\net6.0\палиндром.exe
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\bin\Debug\net6.0\палиндром.deps.json
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\bin\Debug\net6.0\палиндром.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\bin\Debug\net6.0\палиндром.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\bin\Debug\net6.0\палиндром.pdb
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\refint\палиндром.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.pdb
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\палиндром.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\3\палиндром\obj\Debug\net6.0\ref\палиндром.dll
