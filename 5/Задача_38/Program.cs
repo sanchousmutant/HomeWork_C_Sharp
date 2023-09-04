@@ -16,7 +16,7 @@ double[] Array(int size)
     Random rnd = new Random();
     for (int i = 0; i < size; i++)
     {
-        array[i] = Convert.ToDouble(rnd.Next(100, 999)/10.0);
+        array[i] = Convert.ToDouble(rnd.Next(100, 9999)/100.0);
     }
     return array;
 }
@@ -53,8 +53,8 @@ double MinInArray(double[] array)
 void DifMaxMin(double max, double min)
 {
     double dif = max - min;
-    System.Console.WriteLine($"Разность максимального {max} и минимального {min} "
-    + $"числа массива равна {Math.Round(dif, 2)}");
+    System.Console.WriteLine("Разность максимального и минимального "
+    + $"числа массива равна {max} - {min} = {Math.Round(dif, 2)}");
 }
 
 int size = InputNum("Введите размер массива: ");
