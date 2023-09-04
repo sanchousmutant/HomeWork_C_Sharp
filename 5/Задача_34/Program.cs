@@ -27,7 +27,7 @@ void NumberEven(int[] array)
     {
         if (array[i] % 2 == 0) count++;
     }
-    System.Console.Write("Колличество четных чисел массива ");
+    System.Console.Write("Количество четных чисел массива ");
     System.Console.Write("[{0}]", string.Join(", ", array));
     System.Console.WriteLine($" равно {count}");
 }
