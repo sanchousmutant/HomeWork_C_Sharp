@@ -29,7 +29,7 @@ void SumEven(int[] array)
     }
     System.Console.Write("Сумма чисел массива ");
     System.Console.Write("[{0}]", string.Join(", ", array));
-    System.Console.WriteLine($", стоящих на четных позициях, равна {sum}");
+    System.Console.WriteLine($", стоящих на нечетных позициях, равна {sum}");
 }
 
 
