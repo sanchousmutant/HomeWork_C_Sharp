@@ -10,13 +10,13 @@ int InputNum(string message)
     return int.Parse(Console.ReadLine()!);
 }
 
-double[] Array(int size)
+double[] CreatArray(int size)
 {
     double[] array = new double[size];
     Random rnd = new Random();
     for (int i = 0; i < size; i++)
     {
-        array[i] = Convert.ToDouble(rnd.Next(100, 9999)/100.0);
+        array[i] = Math.Round(rnd.NextDouble() * 10, 2);
     }
     return array;
 }
@@ -50,16 +50,17 @@ double MinInArray(double[] array)
     return min;
 }
 
-void DifMaxMin(double max, double min)
+void DifferenceMaxMin(double max, double min)
 {
     double dif = max - min;
     System.Console.WriteLine("Разность максимального и минимального "
-    + $"числа массива равна {max} - {min} = {Math.Round(dif, 2)}");
+                            + $"числа массива равна {max} - {min}"
+                            + $" = {Math.Round(dif, 2)}");
 }
 
 int size = InputNum("Введите размер массива: ");
-double[] array = Array(size);
+double[] array = CreatArray(size);
 PrintArray(array);
 double max = MaxInArray(array);
 double min = MinInArray(array);
-DifMaxMin(max, min);
+DifferenceMaxMin(max, min);

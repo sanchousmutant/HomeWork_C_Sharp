@@ -10,7 +10,7 @@ int InputNum(string message)
     return int.Parse(Console.ReadLine()!);
 }
 
-int[] Array(int size)
+int[] CreatArray(int size)
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -20,19 +20,18 @@ int[] Array(int size)
     return array;
 }
 
-void SumEven(int[] array)
+void SumOddEvenPosition(int[] array)
 {
     int sum = 0;
     for (int i = 1; i < array.Length; i += 2)
     {
         sum += array[i];
     }
-    System.Console.Write("Сумма чисел массива ");
-    System.Console.Write("[{0}]", string.Join(", ", array));
+    System.Console.Write("Сумма чисел массива " + "[{0}]", string.Join(", ", array));
     System.Console.WriteLine($", стоящих на нечетных позициях, равна {sum}");
 }
 
 
 int size = InputNum("Введите размер массива: ");
-int[] array = Array(size);
-SumEven(array);
+int[] array = CreatArray(size);
+SumOddEvenPosition(array);
