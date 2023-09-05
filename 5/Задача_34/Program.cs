@@ -10,7 +10,7 @@ int InputNum(string message)
     return int.Parse(Console.ReadLine()!);
 }
 
-int[] Array(int size)
+int[] CreatArray(int size)
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -33,5 +33,5 @@ void NumberEven(int[] array)
 }
 
 int size = InputNum("Введите размер массива : ");
-int[] array = Array(size);
+int[] array = CreatArray(size);
 NumberEven(array);
