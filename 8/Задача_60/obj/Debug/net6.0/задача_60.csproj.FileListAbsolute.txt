@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\bin\Debug\net6.0\задача_60.exe
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\bin\Debug\net6.0\задача_60.deps.json
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\bin\Debug\net6.0\задача_60.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\bin\Debug\net6.0\задача_60.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\bin\Debug\net6.0\задача_60.pdb
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\refint\задача_60.dll
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.pdb
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\задача_60.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Домашка\3.Знакомсвто с языком программирования C#\8\задача_60\obj\Debug\net6.0\ref\задача_60.dll
